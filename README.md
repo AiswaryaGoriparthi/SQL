@@ -1,7 +1,7 @@
 # SQL
 SQL PROJECTS
 
-Here's a project description for your SQL-based customer analysis workflow:
+Here's a project description for SQL-based customer analysis workflow:
 
 Project Title:
 Customer Sales Analysis and Segmentation
